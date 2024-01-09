@@ -5,4 +5,4 @@ Dreaming Favelas is a photography competition for low income dwellers, with the 
 
 I was in charge of creating the UX/UI prototype and the web development.
 
-![Dreaming Favelas Website]([URL_da_Imagem](https://www.behance.net/gallery/188509003/Dreaming-Favelas)https://www.behance.net/gallery/188509003/Dreaming-Favelas)
+<img src="https://www.behance.net/gallery/188509003/Dreaming-Favelas" alt="Dreaming Favelas Website">
